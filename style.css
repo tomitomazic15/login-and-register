@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray;
+}
+
+header{
+    text-align: center;
+    font-weight: 600;
+    font-size: 60px;
+    margin-top: 50px;
+}
+
+form{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
