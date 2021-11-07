@@ -1,1 +1,1 @@
-Github page: https://tomitomazic15.github.io/basic-login/
+Github page: https://tomitomazic15.github.io/login-and-register/
